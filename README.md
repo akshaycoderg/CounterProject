@@ -17,10 +17,9 @@ d.Undefined, etc.
 
 ####Table :
 
-|Primitive Type|	Description|
-|Number|       |All the numbers are of Number type.|
-|Boolean|	     |Boolean values are either true or false.|
-|String|	       |String is a stream of characters. The String should be enclosed with Single quotes, Double quotes, or 
-               Backticks.|
-|Undefined|	   |If a value is not assigned to the variable, then it takes undefined as its value. In JS, undefined refers to 
-               the value that is not being assigned.|
+
+|Number|     ---  |All the numbers are of Number type.|<br>
+|Boolean|	   ----  |Boolean values are either true or false.|<br>
+|String|	    ---   |String is a stream of characters. The String should be enclosed with Single quotes, Double quotes, or 
+               Backticks.|<br>
+|Undefined|	 ---  |If a value is not assigned to the variable, then it takes undefined as its value. In JS, undefined refers to the value that is not being assigned.|<br>
